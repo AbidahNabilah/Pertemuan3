@@ -13,5 +13,5 @@ class InitOrder(name: String){
 }
 
 fun main() {
-    val initOrder = InitOrder("TI")
+    val initOrder = InitOrder("Abidah Nabilah")
 }
